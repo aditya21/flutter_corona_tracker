@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578072870662",
+    "firebase_url": "https://covid-19-india-da580.firebaseio.com",
+    "project_id": "covid-19-india-da580",
+    "storage_bucket": "covid-19-india-da580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578072870662:android:e14fda612c030c07042887",
+        "android_client_info": {
+          "package_name": "com.covid19india.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578072870662-2nnnlg2qva8fl0i1bqm97l7cvbnaam0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlH3m8V2ByAg2MvPqkEFUHzAvQRuQP2Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578072870662-2nnnlg2qva8fl0i1bqm97l7cvbnaam0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
